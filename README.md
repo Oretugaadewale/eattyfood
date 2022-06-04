@@ -29,13 +29,13 @@ Pause anytime: Going on vacation? Just pause your subscription, and we refund un
 
 **Your daily dose of health in 3 simple steps**
 
-Tell us what you like (and what not): Never again waste time thinking about what to eat! Omnifood AI will create a 100% personalized weekly meal plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!
+Tell us what you like (and what not): Never again waste time thinking about what to eat! eattyfood AI will create a 100% personalized weekly meal plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!
 
-Approve your weekly meal plan: Once per week, approve the meal plan generated for you by Omnifood AI. You can change ingredients, swap entire meals, or even add your own recipes.
+Approve your weekly meal plan: Once per week, approve the meal plan generated for you by eattyfood AI. You can change ingredients, swap entire meals, or even add your own recipes.
 
 Receive meals at convenient time: Best chefs in town will cook your selected meal every day, and we will deliver it to your door whenever works best for you. You can change delivery schedule and address daily!
 
-### Omnifood works with any diet
+### eattyfood works with any diet
 
 Vegetarian
 Vegan
@@ -49,7 +49,7 @@ Kid-friendly
 
 ### Sample meals
 
-**Omnifood AI chooses from 5,000+ recipes**
+**eattyfood AI chooses from 5,000+ recipes**
 
 Meal 1: Japanese Gyozas
 
@@ -77,13 +77,13 @@ Healthy, tasty and hassle-free meals are waiting for you. Start eating well toda
 
 Prices include all applicable taxes. Users can cancel at any time.
 
-Starter: $399 per month
+Starter: #40k per month
 
 - 1 meal per day
 - Order times are between 11am and 9pm
 - Delivery is free
 
-Complete: $649 per month
+Complete: #60k per month
 
 - 2 meal2 per day
 - Order 24/7
@@ -100,8 +100,8 @@ Complete: $649 per month
 
 Inexpensive, healthy and great-tasting meals, without even having to order manually! It feels truly magical. (Dave Bryson)
 The AI algorithm is crazy good, it chooses the right meals for me every time. It's amazing not to worry about food anymore! (Ben Hadley)
-Omnifood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
-I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
+eattyfood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
+I got eattyfood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
 
 ### Section with logos of featured publications [see images]
 
@@ -119,7 +119,7 @@ Create account
 Sign in
 iOS app
 Android app
-About Omnifood
+About eattyfood
 For Business
 Cooking partners
 Careers
